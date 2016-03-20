@@ -2,7 +2,7 @@ $(function(){
 
 	$(".aa").on('click', '.selector', function(event) {
 		event.preventDefault();
-		alert("1231");
+		/* Act on the event */
 	});
 
 
