@@ -1,7 +1,8 @@
 $(function(){
 
-	console.log("1231");
-
-	alert("11");
+	$(".aa").on('click', '.selector', function(event) {
+		event.preventDefault();
+		/* Act on the event */
+	});
 
 })
