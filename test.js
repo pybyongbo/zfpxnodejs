@@ -1,5 +1,7 @@
 $(function(){
 
-console.log("1231");
+	console.log("1231");
+
+	alert("11");
 
 })
