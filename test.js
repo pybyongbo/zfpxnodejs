@@ -5,4 +5,10 @@ $(function(){
 		alert("1231");
 	});
 
+
+	function drag(){
+
+		
+	}
+
 })
